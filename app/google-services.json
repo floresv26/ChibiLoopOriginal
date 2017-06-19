@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162890384369",
+    "firebase_url": "https://chibiloop-bf772.firebaseio.com",
+    "project_id": "chibiloop-bf772",
+    "storage_bucket": "chibiloop-bf772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162890384369:android:0e7fa1e388ebad31",
+        "android_client_info": {
+          "package_name": "com.floresvanessa.chibiloop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162890384369-b52824h666iavildqqarg4gnuios8fti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floresvanessa.chibiloop",
+            "certificate_hash": "817cc9f4d8a5f21778e950f83580256eb154052a"
+          }
+        },
+        {
+          "client_id": "162890384369-6sivmsgdas790djkam4jbnqh6kga88j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87iV0VyPMQj96YbpxiP_C0z1kof4Wz6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162890384369-6sivmsgdas790djkam4jbnqh6kga88j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
